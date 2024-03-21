@@ -6,3 +6,15 @@ h1 {
     color: white;
     text-align: center;
 }
+
+header {
+    background-color: rgb(241, 56, 56);
+   
+    
+    padding : 2em;
+    text-align: left;
+    height: 20px;
+    
+ }
+
+
