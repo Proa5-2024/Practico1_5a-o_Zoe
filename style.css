@@ -38,7 +38,7 @@ footer {
     
     padding : 2em;
     text-align: left;
-    height: 20px;
+    height: 60px;
     
 
 }
@@ -49,5 +49,7 @@ select {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+
+
 
 
