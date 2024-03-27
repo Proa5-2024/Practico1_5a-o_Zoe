@@ -2,9 +2,10 @@ body {
     background-color: white;
 }
 
-h1 {
+h1{
     color: #0097B2;
     text-align: center;
+
 }
 
 header {
@@ -13,7 +14,7 @@ header {
     
 
     text-align: left;
-    height: 20px;
+    height: 80px;
     
     
  }
@@ -27,7 +28,7 @@ footer {
     
     padding : 2em;
     text-align: left;
-    height: 60px;
+    height: 100px;
     
 
 }
