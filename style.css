@@ -43,4 +43,11 @@ footer {
 
 }
 
+select {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
 
