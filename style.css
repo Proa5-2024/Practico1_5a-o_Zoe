@@ -32,4 +32,15 @@ header {
     text-decoration:none;
 }
 
+footer {
+    background-color:#FF3131 ;
+   
+    
+    padding : 2em;
+    text-align: left;
+    height: 20px;
+    
+
+}
+
 
